@@ -1,0 +1,103 @@
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Generator Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Disc Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Disc Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Disc Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
+Epoch: 0 Disc Loss: 0.0000 Time: 0.00
+
+
+Saving model Checkpoint  ......
